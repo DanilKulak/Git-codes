@@ -1,0 +1,14 @@
+body {
+    background-color:black;
+}
+h1 {
+    color:rgb(255, 212, 127);
+    padding-left: 45px;
+}
+li {
+    list-style: none;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 60px;
+    background-color: sandybrown;
+}
